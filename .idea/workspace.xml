@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c2c44d6-2ddb-4c75-a1a2-4a5d4328b479" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1oXqRwNA4fxKcQ7qf6D5cG5Cqci" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Cucumber java.Feature: acc">
+    <configuration name="Feature: acc" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/parallel/acc.feature" />
+      <option name="GLUE" value="parallel" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="CucumberPOMSeries" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: acc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Accounts page title" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/parallel/acc.feature" />
+      <option name="GLUE" value="parallel" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="CucumberPOMSeries" />
+      <option name="NAME_FILTER" value="^Accounts page title$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Accounts page title$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Accounts page title" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Login with correct credentials" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/parallel/LoginPage.feature" />
+      <option name="GLUE" value="parallel" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="CucumberPOMSeries" />
+      <option name="NAME_FILTER" value="^Login with correct credentials$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Login with correct credentials$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Login with correct credentials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Feature: acc" />
+        <item itemvalue="Cucumber java.Scenario: Login with correct credentials" />
+        <item itemvalue="Cucumber java.Scenario: Accounts page title" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c2c44d6-2ddb-4c75-a1a2-4a5d4328b479" name="Default Changelist" comment="" />
+      <created>1613443277554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613443277554</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1235" height="209" key="GridCell.Tab.0.bottom" timestamp="1613444031513">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1235" height="209" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1613444031513" />
+    <state width="1235" height="209" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1613443404026" />
+    <state width="1235" height="209" key="GridCell.Tab.0.center" timestamp="1613444031512">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1235" height="209" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1613444031512" />
+    <state width="1235" height="209" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1613443404025" />
+    <state width="1235" height="209" key="GridCell.Tab.0.left" timestamp="1613444031512">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1235" height="209" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1613444031512" />
+    <state width="1235" height="209" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1613443404025" />
+    <state width="1235" height="209" key="GridCell.Tab.0.right" timestamp="1613444031513">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1235" height="209" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1613444031513" />
+    <state width="1235" height="209" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1613443404026" />
+  </component>
+</project>
